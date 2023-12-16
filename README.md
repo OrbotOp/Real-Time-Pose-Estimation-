@@ -7,6 +7,16 @@ This Python project showcases a simple yet effective pose estimation implementat
 1. Clone the repository to your local machine.
 
    ```
-   git clone 
+   git clone https://github.com/OrbotOp/Real-Time-Pose-Estimation-.git
    ```
+2. Install dependencies.
+
+     ```
+     pip install -r requirement.txt
+     ```
+3. To Run.
+   ```
+     python poseEstimation.py
+     ```
+   
    
